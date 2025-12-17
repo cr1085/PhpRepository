@@ -7,7 +7,7 @@ Este repositorio acompaña un curso práctico alojado en YouTube, diseñado para
 
 ---
 
-[![YouTube](https://img.shields.io/badge/YouTube-¿Quieres_aprender_PHP_desde_cero_sin_enredos_ni_promesas_falsas_?-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dJgo9-xtgzE?si=4tu7sL81TYXsBsui)
+[![YouTube](https://img.shields.io/badge/YouTube-¿_Quieres_aprender_PHP_desde_cero_sin_enredos_ni_promesas_falsas_?-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dJgo9-xtgzE?si=4tu7sL81TYXsBsui)
 
 [![YouTube](https://img.shields.io/badge/YouTube-Deja_de_escribir_código_sucio:_Variables_y_Buenas_Prácticas_en_PHP-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/x7YFAz6C8a8?si=7xXHou7UBm6eD6JZ)
 
